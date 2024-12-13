@@ -1,5 +1,5 @@
-from keras.models import load_model  # TensorFlow is required for Keras to work
-import cv2  # Install opencv-python
+from keras.models import load_model  
+import cv2  
 import numpy as np
 import cvzone
 
